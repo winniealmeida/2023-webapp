@@ -14,5 +14,5 @@ Aluna: [Winnie Almeida](https://github.com/winniealmeida)
 
 ## Log do projeto
 | Data | Descrição |
-| --- | --- |
+| 30/03/23 | Projeto html |
 
